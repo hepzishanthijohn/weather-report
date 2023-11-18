@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+
+}
+
+nav{
+    width: auto;
+    background-color: rgb(14, 12, 12);
+    color: white;
+    height: 4rem;
+    text-align: center;
+}
+.card-header{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.card-body{
+    background-image: linear-gradient(to bottom right, #ffd901f5, #0e197d9c);
+    color: black;
+    text-align: center;
+    
+}
+img{
+    height: 9rem;
+    width: 15rem;
+}
